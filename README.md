@@ -19,7 +19,7 @@ This repository documents my journey as i build a decentralized certificate veri
 
 **Solidity:** Solidity is a programming language used to create smart contracts, cryptocurrencies, decentralized apps, etc. The programs run on the Ethereum Virtual Machine (EVM). It looks similar to Javascript, but is built specifically for blockchain development.
 
-I learnt solidity basics on an online platform called CryptoZombies ([text](https://cryptozombies.io/)). It provides interactive solidity tutorials which help you learn blockchain programming by building your own fun game with zombies. 
+I learnt solidity basics on an online platform called CryptoZombies (https://cryptozombies.io/). It provides interactive solidity tutorials which help you learn blockchain programming by building your own fun game with zombies. 
 The code I have attached allows users to create their own zombies which feed on humans and kittens.
 
 **Smart Contracts:** Smart contracts are self-executing programs stored on a blockchain that automatically run when predefined conditions are met without needing trust in a middleman. They are the core building blocks of decentralized applications (dApps). It behaves like a digital agreement written in code, and once deployed, it cannot be tampered with, runs exactly as written, is visible and verifiable by everyone.
